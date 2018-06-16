@@ -1,0 +1,2 @@
+classname=reflection.Student
+method=MyName
