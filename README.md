@@ -1,3 +1,3 @@
 # javaSE
 
-javaSE 基础练习
+javaSE 基础实践练习
